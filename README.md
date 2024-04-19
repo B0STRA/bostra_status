@@ -8,7 +8,7 @@ FiveM text-based Roleplay enhancing script
 - Set your character's status description that they cannot convey through other means `/setstatus`
 - Clear your character's status description `/clearstatus`
 - Check your character's own status `/getstatus`
-- Target a player to get their status with OX_Target
+- Target a player to get their status with ox_target
 
 
 ## Dependencies
